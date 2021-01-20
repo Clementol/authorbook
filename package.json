@@ -1,11 +1,19 @@
 {
-  "name": "hello-react",
+  "name": "exercise-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "apollo-boost": "^0.4.7",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "graphql": "^15.0.0",
     "react": "^16.9.0",
+    "react-apollo": "^3.1.4",
+    "react-datepicker": "^2.14.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.1.1",
+    "redux": "^4.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
